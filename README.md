@@ -1,6 +1,8 @@
-# To-Do List Web Application
+# ListCheckR
 
-This web application allows you to create, manage, and organize your tasks with ease.
+"Streamline Your Life, One Task at a Time!"
+
+Welcome to ListCheckR, your digital companion for effortless task management and productivity enhancement. This elegantly designed application is more than just a checklist; it's a powerful tool that helps you regain control of your time, organize your thoughts, and achieve your goals with grace.
 
 ![To-Do List App](app-screenshot.png)
 
@@ -35,7 +37,8 @@ Follow these steps to get the To-Do List app up and running on your local machin
    npm start
 ```
 
-2. To start the Back-end of the to-do List Web Application, run the following command, after you have finished with installing all the dependencies:
+2. To start the Back-end of the to-do List Web Application, run the following command, after you are finished with installing all the necessary dependencies:
 ```shell
    nodemon app.js
+```
 
