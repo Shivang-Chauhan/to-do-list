@@ -23,20 +23,11 @@ Follow these steps to get the To-Do List app up and running on your local machin
 ### Prerequisites
 
 - Node.js and npm installed on your system.
-- To avoid any descrepancies, install the following dependencies:
+- To download all the necessary packages and dependencies:
 - ```shell
-  npm i axios
-  npm i cors
-  npm i express
-  npm i mongoose
-  npm i nodemon
-  npm i react
-  npm i react-dom
-  npm i react-router-dom
-  npm i uuid
+   npm install
   ```
--To install font-awesome packages:
-
+  
 ### Installation
 
 1. Clone the repository to your local machine:
