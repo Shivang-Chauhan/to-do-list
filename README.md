@@ -46,12 +46,39 @@ Follow these steps to get the To-Do List app up and running on your local machin
   ```shell
      nodemon app.js
   ```
+
 ## Features
 
-**Add New Tasks**: Easily add new tasks to your to-do list by typing them into the input field and pressing Enter. No need for complex forms or multiple steps.
+### 1. User Authentication
 
-- **Edit Tasks**: Double-click on a task to edit its title. Make quick updates and press Enter to save the changes. Keep your task descriptions up to date.
+Our To-Do List App includes a robust user authentication system that offers the following features:
 
-- **Mark as Completed**: With a simple click on the checkbox next to a task, you can mark it as completed. A visual cue helps you distinguish completed tasks from pending ones.
+- **Sign Up**: Users can create a new account by providing a valid email address and password. Passwords are securely hashed for added security.
 
-- **Delete Tasks**: Remove tasks you no longer need by clicking the trash can icon next to them. Keep your task list clean and clutter-free.
+- **Login**: Registered users can log in with their email and password to access their personalized to-do lists.
+
+- **Logout**: Users can securely log out of their accounts when done.
+
+### 2. To-Do List Management
+
+Once authenticated, users can enjoy the following features for managing their to-do lists:
+
+- **Create Tasks**: Easily add new tasks to your to-do list. The app keeps track of all your tasks in one place.
+
+- **Complete Tasks**: Mark tasks as completed when you finish them. A simple click is all it takes.
+
+- **Edit Tasks**: Need to make changes to a task? Just double-click on it to edit the text.
+
+- **Delete Tasks**: Remove tasks you no longer need with the click of a button.
+
+- **Filtering**: Organize your tasks by viewing all tasks, active tasks, or completed tasks. Choose the view that suits your current needs.
+
+- **Clear Completed**: Quickly remove completed tasks to keep your list tidy and focused.
+
+### 3. Protected Routes
+
+To ensure data privacy and security, our app utilizes protected routes:
+
+- **Authenticated Access**: Only logged-in users can access the to-do list functionality. Unauthorized users are redirected to the login page.
+
+- **Route Guarding**: Protected routes are guarded to prevent unauthorized access. Users without valid authentication tokens cannot access these routes.
