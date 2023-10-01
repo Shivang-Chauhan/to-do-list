@@ -23,10 +23,6 @@ Follow these steps to get the To-Do List app up and running on your local machin
 ### Prerequisites
 
 - Node.js and npm installed on your system.
-- To download all the necessary packages and dependencies:
-- ```shell
-   npm install
-  ```
   
 ### Installation
 
@@ -37,12 +33,17 @@ Follow these steps to get the To-Do List app up and running on your local machin
 
 ## Usage
 
-1. To start the Front-end of the to-do List Web Application, run the following command:
+1. To download all the necessary packages and dependencies:
+- ```shell
+   npm install
+  ```
+  
+2. To start the Front-end of the to-do List Web Application, run the following command:
   ```shell
      npm start
   ```
 
-2. To start the Back-end of the to-do List Web Application, run the following command, after you are finished with installing all the necessary dependencies:
+3. To start the Back-end of the to-do List Web Application, run the following command, after you are finished with installing all the necessary dependencies:
   ```shell
      nodemon app.js
   ```
