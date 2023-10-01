@@ -60,6 +60,8 @@ Our To-Do List App includes a robust user authentication system that offers the 
 
 - **Logout**: Users can securely log out of their accounts when done.
 
+- **Error Handling**: User-friendly error messages for failed login attempts and other authentication-related issues.
+
 ### 2. To-Do List Management
 
 Once authenticated, users can enjoy the following features for managing their to-do lists:
@@ -77,3 +79,11 @@ To ensure data privacy and security, our app utilizes protected routes:
 - **Authenticated Access**: Only logged-in users can access the to-do list functionality. Unauthorized users are redirected to the login page.
 
 - **Route Guarding**: Protected routes are guarded to prevent unauthorized access. Users without valid authentication tokens cannot access these routes.
+
+### MongoDB Integration
+
+We've integrated MongoDB, a powerful NoSQL database, to provide a seamless experience:
+
+- **Data Storage**: User account details and to-do lists are securely stored in the MongoDB database.
+
+- **Data Retrieval**: Tasks and user information are fetched from the database for an up-to-date experience.
