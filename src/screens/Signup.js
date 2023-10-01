@@ -14,7 +14,7 @@ function Signup() {
 
     try {
       await axios
-        .post("http://localhost:8000/signup", {
+        .post("https://to-do-backend-e1cu.onrender.com/signup", {
           email,
           password,
         })
