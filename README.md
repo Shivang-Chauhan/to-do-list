@@ -30,7 +30,10 @@ Follow these steps to get the To-Do List app up and running on your local machin
    git clone https://github.com/your-username/todo-list-app.git
 
 ## Usage
-To start the to-do List Web Application, run the following command:
+1. To start the Front-end of the to-do List Web Application, run the following command:
 ```shell
    npm start
+2. To start the Back-end of the to-do List Web Application, run the following command, after you have finished with installing all the dependencies:
+```shell
+   nodemon app.js
 
