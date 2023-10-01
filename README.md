@@ -6,8 +6,6 @@ Welcome to ListCheckR, your digital companion for effortless task management and
 
 <img width="1440" alt="toDo_app" src="https://github.com/Shivang-Chauhan/to-do-list/assets/135962677/605fb013-26c5-48dc-bacd-b787c69ac287">
 
-![To-Do List App](app-screenshot.png)
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -55,9 +53,9 @@ Follow these steps to get the To-Do List app up and running on your local machin
 
 Our To-Do List App includes a robust user authentication system that offers the following features:
 
-- **Sign Up**: Users can create a new account by providing a valid email address and password. Passwords are securely hashed for added security.
+- **Sign Up**: Users can create a new account by providing a valid email address and password.
 
-- **Login**: Registered users can log in with their email and password to access their personalized to-do lists.
+- **Login**: Registered users can log in with their email and password to access their to-do lists.
 
 - **Logout**: Users can securely log out of their accounts when done.
 
