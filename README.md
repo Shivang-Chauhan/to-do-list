@@ -4,6 +4,8 @@
 
 Welcome to ListCheckR, your digital companion for effortless task management and productivity enhancement. This elegantly designed application is more than just a checklist; it's a powerful tool that helps you regain control of your time, organize your thoughts, and achieve your goals with grace.
 
+<img width="1440" alt="toDo_app" src="https://github.com/Shivang-Chauhan/to-do-list/assets/135962677/605fb013-26c5-48dc-bacd-b787c69ac287">
+
 ![To-Do List App](app-screenshot.png)
 
 ## Table of Contents
@@ -65,15 +67,9 @@ Once authenticated, users can enjoy the following features for managing their to
 
 - **Create Tasks**: Easily add new tasks to your to-do list. The app keeps track of all your tasks in one place.
 
-- **Complete Tasks**: Mark tasks as completed when you finish them. A simple click is all it takes.
-
-- **Edit Tasks**: Need to make changes to a task? Just double-click on it to edit the text.
+- **Edit Tasks**: Need to make changes to a task? Just click on the edit icon to edit the text.
 
 - **Delete Tasks**: Remove tasks you no longer need with the click of a button.
-
-- **Filtering**: Organize your tasks by viewing all tasks, active tasks, or completed tasks. Choose the view that suits your current needs.
-
-- **Clear Completed**: Quickly remove completed tasks to keep your list tidy and focused.
 
 ### 3. Protected Routes
 
