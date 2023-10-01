@@ -87,3 +87,15 @@ We've integrated MongoDB, a powerful NoSQL database, to provide a seamless exper
 - **Data Storage**: User account details and to-do lists are securely stored in the MongoDB database.
 
 - **Data Retrieval**: Tasks and user information are fetched from the database for an up-to-date experience.
+
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix: git checkout -b feature-name
+- Make your changes and commit them: git commit -m 'Add new feature'
+- Push to the branch: git push origin feature-name
+- Create a pull request on GitHub.
+
