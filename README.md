@@ -23,6 +23,11 @@ Follow these steps to get the To-Do List app up and running on your local machin
 ### Prerequisites
 
 - Node.js and npm installed on your system.
+- ```shell
+   npm i mongoose
+  npm i express
+  ```
+  
 
 ### Installation
 
