@@ -33,6 +33,7 @@ Follow these steps to get the To-Do List app up and running on your local machin
 1. To start the Front-end of the to-do List Web Application, run the following command:
 ```shell
    npm start
+```
 
 2. To start the Back-end of the to-do List Web Application, run the following command, after you have finished with installing all the dependencies:
 ```shell
