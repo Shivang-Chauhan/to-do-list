@@ -28,3 +28,9 @@ Follow these steps to get the To-Do List app up and running on your local machin
 
    ```shell
    git clone https://github.com/your-username/todo-list-app.git
+
+## Usage
+To start the to-do List Web Application, run the following command:
+```shell
+   npm start
+
