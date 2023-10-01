@@ -80,9 +80,9 @@ To ensure data privacy and security, our app utilizes protected routes:
 
 - **Route Guarding**: Protected routes are guarded to prevent unauthorized access. Users without valid authentication tokens cannot access these routes.
 
-### MongoDB Integration
+### 4. MongoDB Integration
 
-We've integrated MongoDB, a powerful NoSQL database, to provide a seamless experience:
+We've integrated MongoDB, a powerful NoSQL database, to provide a seamless experience for authentication:
 
 - **Data Storage**: User account details and to-do lists are securely stored in the MongoDB database.
 
