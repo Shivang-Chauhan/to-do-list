@@ -35,7 +35,7 @@ Follow these steps to get the To-Do List app up and running on your local machin
   npm i react-router-dom
   npm i uuid
   ```
-  
+-To install font-awesome packages:
 
 ### Installation
 
