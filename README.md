@@ -99,3 +99,11 @@ If you'd like to contribute to this project, please follow these steps:
 - Push to the branch: git push origin feature-name
 - Create a pull request on GitHub.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+- ```shell
+     
+This README file provides detailed instructions for installing and running your Login Page Web Application and lists the key dependencies used in the project. Feel free to customize it further based on your project's specific requirements.
+
+  ```
